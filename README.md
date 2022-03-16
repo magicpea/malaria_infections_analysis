@@ -1,5 +1,5 @@
 # Malaria Infections Analysis
-## by Marala Berdyeva, Jenn Willson, Marie O’Connell
+## by Marala Berdyeva, Jenn Willson & Marie O’Connell
 
 ### Datasets :
 This project requires downloading the following files :
